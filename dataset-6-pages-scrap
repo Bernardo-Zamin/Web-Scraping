@@ -1,0 +1,583 @@
+Team Name;Year;Wins;Losses;OT Losses;Win %;Goals For (GF);	Goals Against (GA);+ / -
+Boston Bruins;1990;44;24;;0.55;299;264;35
+Buffalo Sabres;1990;31;30;;0.575;292;278;14
+Calgary Flames;1990;46;26;;0.613;344;263;81
+Chicago Blackhawks;1990;49;23;;0.575;284;211;73
+Detroit Red Wings;1990;34;38;;0.512;273;298;0
+Edmonton Oilers;1990;37;37;;0.588;272;272;86
+Hartford Whalers;1990;31;38;;0.537;238;276;24
+Los Angeles Kings;1990;46;24;;0.512;340;254;8
+Minnesota North Stars;1990;27;39;;0.625;256;266;32
+Montreal Canadiens;1990;39;30;;0.525;273;249;37
+New Jersey Devils;1990;32;33;;0.562;272;264;60
+New York Islanders;1990;25;45;;0.607;223;290;0
+New York Rangers;1990;36;31;;0.512;297;265;21
+Philadelphia Flyers;1990;33;37;;0.56;252;267;64
+Pittsburgh Penguins;1990;41;33;;0.56;342;305;60
+Quebec Nordiques;1990;16;50;;0.571;236;354;30
+St. Louis Blues;1990;47;22;;0.667;310;250;75
+Toronto Maple Leafs;1990;23;46;;0.56;241;318;35
+Vancouver Canucks;1990;28;43;;0.524;243;315;13
+Washington Capitals;1990;37;36;;0.548;258;258;35
+Winnipeg Jets;1990;26;43;;0.512;260;288;55
+Boston Bruins;1991;36;32;;0.5;270;275;7
+Buffalo Sabres;1991;31;37;;0.512;289;299;64
+Calgary Flames;1991;31;37;;0.5;296;305;38
+Chicago Blackhawks;1991;36;29;;0.5;257;236;40
+Detroit Red Wings;1991;43;25;;0.548;320;256;49
+Edmonton Oilers;1991;36;34;;0.56;295;297;89
+Hartford Whalers;1991;26;41;;0.619;247;283;46
+Los Angeles Kings;1991;35;31;;0.524;287;296;9
+Minnesota North Stars;1991;32;42;;0.512;246;278;38
+Montreal Canadiens;1991;41;28;;0.562;267;207;0
+New Jersey Devils;1991;38;31;;0.5;289;259;99
+New York Islanders;1991;34;35;;0.5;291;299;51
+New York Rangers;1991;50;25;;0.688;321;246;4
+Philadelphia Flyers;1991;32;37;;0.583;252;273;47
+Pittsburgh Penguins;1991;39;32;;0.604;343;308;68
+Quebec Nordiques;1991;20;48;;0.625;255;318;39
+San Jose Sharks;1991;17;58;;0.583;219;359;2
+St. Louis Blues;1991;36;33;;0.573;279;266;37
+Toronto Maple Leafs;1991;30;43;;0.756;234;294;64
+Vancouver Canucks;1991;42;26;;0.5;285;250;46
+Washington Capitals;1991;45;27;;0.5;330;275;14
+Winnipeg Jets;1991;33;32;;0.549;251;244;21
+Boston Bruins;1992;51;26;;0.598;332;268;81
+Buffalo Sabres;1992;38;36;;0.598;335;297;0
+Calgary Flames;1992;43;30;;0.585;322;282;35
+Chicago Blackhawks;1992;47;25;;0.549;279;230;86
+Detroit Red Wings;1992;47;28;;0.549;369;280;18
+Edmonton Oilers;1992;26;50;;0.598;242;337;68
+Hartford Whalers;1992;26;52;;0.537;284;369;14
+Los Angeles Kings;1992;39;35;;0.585;338;340;37
+Minnesota North Stars;1992;36;38;;0.512;272;293;3
+Montreal Canadiens;1992;48;30;;0.549;326;280;14
+New Jersey Devils;1992;40;37;;0.537;308;299;23
+New York Islanders;1992;40;37;;0.622;335;297;11
+New York Rangers;1992;34;39;;0.524;304;308;28
+Ottawa Senators;1992;10;70;;0.573;202;395;41
+Philadelphia Flyers;1992;36;37;;0.537;319;319;1
+Pittsburgh Penguins;1992;56;21;;0.549;367;268;63
+Quebec Nordiques;1992;47;27;;0.512;351;300;15
+San Jose Sharks;1992;11;71;;0.524;218;414;5
+St. Louis Blues;1992;37;36;;0.585;282;278;18
+Tampa Bay Lightning;1992;23;54;;0.524;245;332;23
+Toronto Maple Leafs;1992;44;29;;0.549;288;241;51
+Vancouver Canucks;1992;46;29;;0.5;346;278;43
+Washington Capitals;1992;43;34;;0.549;325;286;5
+Winnipeg Jets;1992;40;37;;0.622;322;320;16
+Mighty Ducks of Anaheim;1993;33;46;;0.549;229;251;13
+Boston Bruins;1993;42;29;;0.537;289;252;1
+Buffalo Sabres;1993;43;32;;0.561;282;218;53
+Calgary Flames;1993;42;29;;0.634;302;256;86
+Chicago Blackhawks;1993;39;36;;0.585;254;240;144
+Dallas Stars;1993;42;29;;0.598;286;265;20
+Detroit Red Wings;1993;46;30;;0.585;356;275;17
+Edmonton Oilers;1993;25;45;;0.585;261;305;13
+Florida Panthers;1993;33;34;;0.524;233;233;35
+Hartford Whalers;1993;27;48;;0.512;227;288;74
+Los Angeles Kings;1993;27;45;;0.524;294;322;78
+Montreal Canadiens;1993;41;29;;0.5;283;248;0
+New Jersey Devils;1993;47;25;;0.524;306;220;30
+New York Islanders;1993;36;36;;0.5;282;264;12
+New York Rangers;1993;52;24;;0.549;299;231;29
+Ottawa Senators;1993;14;61;;0.622;201;397;13
+Philadelphia Flyers;1993;35;39;;0.5;294;314;72
+Pittsburgh Penguins;1993;44;27;;0.512;299;285;54
+Quebec Nordiques;1993;34;42;;0.512;277;292;56
+San Jose Sharks;1993;33;35;;0.537;252;265;5
+St. Louis Blues;1993;40;33;;0.524;270;283;20
+Tampa Bay Lightning;1993;30;43;;0.524;224;251;49
+Toronto Maple Leafs;1993;43;29;;0.512;280;243;27
+Vancouver Canucks;1993;41;40;;0.512;279;276;57
+Washington Capitals;1993;39;35;;0.561;277;263;5
+Winnipeg Jets;1993;24;51;;0.585;245;344;27
+Mighty Ducks of Anaheim;1994;16;27;;0.512;125;164;24
+Boston Bruins;1994;27;18;;0.561;150;127;26
+Buffalo Sabres;1994;22;19;;0.634;130;119;75
+Calgary Flames;1994;24;17;;0.549;163;135;54
+Chicago Blackhawks;1994;24;19;;0.5;156;115;2
+Dallas Stars;1994;17;23;;0.537;136;135;27
+Detroit Red Wings;1994;33;11;;0.549;180;117;59
+Edmonton Oilers;1994;17;27;;0.5;136;183;49
+Florida Panthers;1994;20;22;;0.512;115;127;40
+Hartford Whalers;1994;19;24;;0.5;127;141;52
+Los Angeles Kings;1994;16;23;;0.585;142;174;17
+Montreal Canadiens;1994;18;23;;0.5;125;148;9
+New Jersey Devils;1994;22;18;;0.524;136;121;33
+New York Islanders;1994;15;28;;0.524;126;158;32
+New York Rangers;1994;22;23;;0.524;139;134;8
+Ottawa Senators;1994;9;34;;0.561;117;174;34
+Philadelphia Flyers;1994;28;16;;0.549;150;132;68
+Pittsburgh Penguins;1994;29;16;;0.524;181;158;43
+Quebec Nordiques;1994;30;13;;0.524;185;134;4
+San Jose Sharks;1994;19;25;;0.5;129;161;52
+St. Louis Blues;1994;28;15;;0.634;178;135;60
+Tampa Bay Lightning;1994;17;28;;0.561;120;144;35
+Toronto Maple Leafs;1994;21;19;;0.634;135;146;8
+Vancouver Canucks;1994;18;18;;0.524;153;148;17
+Washington Capitals;1994;22;18;;0.646;136;120;5
+Winnipeg Jets;1994;16;25;;0.707;157;177;28
+Mighty Ducks of Anaheim;1995;35;39;;0.5;234;247;37
+Boston Bruins;1995;40;31;;0.512;282;269;9
+Buffalo Sabres;1995;33;42;;0.512;247;262;1
+Calgary Flames;1995;34;37;;0.598;241;240;32
+Chicago Blackhawks;1995;40;28;;0.561;273;220;27
+Colorado Avalanche;1995;47;25;;0.537;326;240;68
+Dallas Stars;1995;26;42;;0.634;227;280;14
+Detroit Red Wings;1995;62;13;;0.549;325;181;35
+Edmonton Oilers;1995;30;44;;0.537;240;304;17
+Florida Panthers;1995;41;31;;0.524;254;234;2
+Hartford Whalers;1995;34;39;;0.5;237;259;48
+Los Angeles Kings;1995;24;40;;0.512;256;302;34
+Montreal Canadiens;1995;40;32;;0.585;265;248;58
+New Jersey Devils;1995;37;33;;0.524;215;202;4
+New York Islanders;1995;22;50;;0.646;229;315;5
+New York Rangers;1995;41;27;;0.524;272;237;11
+Ottawa Senators;1995;18;59;;0.537;191;291;83
+Philadelphia Flyers;1995;45;24;;0.61;282;208;24
+Pittsburgh Penguins;1995;49;29;;0.61;362;284;33
+San Jose Sharks;1995;20;55;;0.585;252;357;34
+St. Louis Blues;1995;32;34;;0.512;219;248;78
+Tampa Bay Lightning;1995;38;32;;0.622;238;248;54
+Toronto Maple Leafs;1995;34;36;;0.598;247;252;51
+Vancouver Canucks;1995;32;35;;0.512;278;278;21
+Washington Capitals;1995;39;32;;0.585;234;204;24
+Winnipeg Jets;1995;36;40;;0.573;275;291;100
+Mighty Ducks of Anaheim;1996;36;33;;0.622;245;233;69
+Boston Bruins;1996;26;47;;0.537;234;300;33
+Buffalo Sabres;1996;40;30;;0.598;237;208;2
+Calgary Flames;1996;32;41;;0.573;214;239;25
+Chicago Blackhawks;1996;34;35;;0.5;223;210;25
+Colorado Avalanche;1996;49;24;;0.512;277;205;54
+Dallas Stars;1996;48;26;;0.524;252;198;25
+Detroit Red Wings;1996;38;26;;0.537;253;197;1
+Edmonton Oilers;1996;36;37;;0.549;252;247;22
+Florida Panthers;1996;35;28;;0.659;221;201;35
+Hartford Whalers;1996;32;39;;0.5;226;256;13
+Los Angeles Kings;1996;28;43;;0.537;214;268;0
+Montreal Canadiens;1996;31;36;;0.573;249;276;9
+New Jersey Devils;1996;45;23;;0.5;231;182;43
+New York Islanders;1996;29;41;;0.561;240;250;2
+New York Rangers;1996;38;34;;0.512;258;231;64
+Ottawa Senators;1996;31;36;;0.524;226;234;23
+Philadelphia Flyers;1996;45;24;;0.512;274;217;24
+Phoenix Coyotes;1996;38;37;;0.573;240;243;18
+Pittsburgh Penguins;1996;38;36;;0.598;285;280;19
+San Jose Sharks;1996;27;47;;0.524;211;278;35
+St. Louis Blues;1996;36;35;;0.512;236;239;42
+Tampa Bay Lightning;1996;32;40;;0.646;217;247;18
+Toronto Maple Leafs;1996;30;44;;0.5;230;273;49
+Vancouver Canucks;1996;35;40;;0.561;257;273;39
+Washington Capitals;1996;33;40;;0.549;214;231;42
+Mighty Ducks of Anaheim;1997;26;43;;0.5;205;261;43
+Boston Bruins;1997;39;30;;0.561;221;194;10
+Buffalo Sabres;1997;36;29;;0.622;211;187;8
+Calgary Flames;1997;26;41;;0.5;217;252;57
+Carolina Hurricanes;1997;33;41;;0.5;200;219;76
+Chicago Blackhawks;1997;30;39;;0.622;192;199;66
+Colorado Avalanche;1997;39;26;;0.524;231;205;1
+Dallas Stars;1997;49;22;;0.537;242;167;20
+Detroit Red Wings;1997;44;23;;0.549;250;196;50
+Edmonton Oilers;1997;35;37;;0.646;215;224;81
+Florida Panthers;1997;24;43;;0.5;203;256;45
+Los Angeles Kings;1997;38;33;;0.549;227;225;31
+Montreal Canadiens;1997;37;32;;0.61;235;208;9
+New Jersey Devils;1997;48;23;;0.549;225;166;28
+New York Islanders;1997;30;41;;0.634;212;225;56
+New York Rangers;1997;25;39;;0.524;197;231;4
+Ottawa Senators;1997;34;33;;0.537;193;200;21
+Philadelphia Flyers;1997;42;29;;0.561;242;193;24
+Phoenix Coyotes;1997;35;35;;0.573;224;227;38
+Pittsburgh Penguins;1997;40;24;;0.585;228;188;19
+San Jose Sharks;1997;34;38;;0.537;210;216;66
+St. Louis Blues;1997;45;29;;0.5;256;204;13
+Tampa Bay Lightning;1997;17;55;;0.61;151;269;5
+Toronto Maple Leafs;1997;30;43;;0.573;194;237;16
+Vancouver Canucks;1997;25;43;;0.622;224;273;49
+Washington Capitals;1997;40;30;;0.598;219;202;27
+Mighty Ducks of Anaheim;1998;35;34;;0.659;215;206;73
+Boston Bruins;1998;39;30;;0.573;214;181;43
+Buffalo Sabres;1998;37;28;;0.561;207;175;36
+Calgary Flames;1998;30;40;;0.524;211;234;53
+Carolina Hurricanes;1998;34;30;;0.5;210;202;38
+Chicago Blackhawks;1998;29;41;;0.537;202;248;41
+Colorado Avalanche;1998;44;28;;0.512;239;205;25
+Dallas Stars;1998;51;19;;0.573;236;168;6
+Detroit Red Wings;1998;43;32;;0.561;245;202;42
+Edmonton Oilers;1998;33;37;;0.537;230;226;18
+Florida Panthers;1998;30;34;;0.537;210;228;34
+Los Angeles Kings;1998;32;45;;0.537;189;222;26
+Montreal Canadiens;1998;32;39;;0.573;184;209;47
+Nashville Predators;1998;28;47;;0.524;190;261;96
+New Jersey Devils;1998;47;24;;0.598;248;196;5
+New York Islanders;1998;24;48;;0.585;194;244;16
+New York Rangers;1998;33;38;;0.561;217;227;32
+Ottawa Senators;1998;44;23;;0.659;239;179;13
+Philadelphia Flyers;1998;37;26;;0.585;231;196;42
+Phoenix Coyotes;1998;39;31;;0.598;205;197;103
+Pittsburgh Penguins;1998;38;30;;0.549;242;225;8
+San Jose Sharks;1998;31;33;;0.5;196;191;24
+St. Louis Blues;1998;37;32;;0.512;237;209;1
+Tampa Bay Lightning;1998;19;54;;0.585;179;292;50
+Toronto Maple Leafs;1998;45;30;;0.585;268;231;1
+Vancouver Canucks;1998;23;47;;0.585;192;258;66
+Washington Capitals;1998;31;45;;0.622;200;218;32
+Mighty Ducks of Anaheim;1999;34;33;3;0.5;217;227;21
+Atlanta Thrashers;1999;14;57;4;0.573;170;313;29
+Boston Bruins;1999;24;33;6;0.512;210;248;55
+Buffalo Sabres;1999;35;32;4;0.622;213;204;44
+Calgary Flames;1999;31;36;5;0.524;211;256;60
+Carolina Hurricanes;1999;37;35;0;0.598;217;216;15
+Chicago Blackhawks;1999;33;37;2;0.622;242;245;8
+Colorado Avalanche;1999;42;28;1;0.512;233;201;26
+Dallas Stars;1999;43;23;6;;211;184;66
+Detroit Red Wings;1999;48;22;2;;278;210;31
+Edmonton Oilers;1999;32;26;8;;226;212;59
+Florida Panthers;1999;43;27;6;;244;209;21
+Los Angeles Kings;1999;39;27;4;;245;228;14
+Montreal Canadiens;1999;35;34;4;;196;194;13
+Nashville Predators;1999;28;40;7;;199;240;2
+New Jersey Devils;1999;45;24;5;;251;203;3
+New York Islanders;1999;24;48;1;;194;275;4
+New York Rangers;1999;29;38;3;;218;246;12
+Ottawa Senators;1999;41;28;2;;244;210;35
+Philadelphia Flyers;1999;45;22;3;;237;179;73
+Phoenix Coyotes;1999;39;31;4;;232;228;5
+Pittsburgh Penguins;1999;37;31;6;;241;236;40
+San Jose Sharks;1999;35;30;7;;225;214;1
+St. Louis Blues;1999;51;19;1;;248;165;9
+Tampa Bay Lightning;1999;19;47;7;;204;310;14
+Toronto Maple Leafs;1999;45;27;3;;246;222;14
+Vancouver Canucks;1999;30;29;8;;227;237;15
+Washington Capitals;1999;44;24;2;;227;194;31
+Mighty Ducks of Anaheim;2000;25;41;5;;188;245;29
+Atlanta Thrashers;2000;23;45;2;;211;289;11
+Boston Bruins;2000;36;30;8;;227;249;7
+Buffalo Sabres;2000;46;30;1;;218;184;78
+Calgary Flames;2000;27;36;4;;197;236;16
+Carolina Hurricanes;2000;38;32;3;;212;225;6
+Columbus Blue Jackets;2000;28;39;6;;190;233;13
+Chicago Blackhawks;2000;29;40;5;;210;246;48
+Colorado Avalanche;2000;52;16;4;;270;192;51
+Dallas Stars;2000;48;24;2;;241;187;3
+Detroit Red Wings;2000;49;20;4;;253;202;19
+Edmonton Oilers;2000;39;28;3;;243;222;2
+Florida Panthers;2000;22;38;9;;200;246;35
+Los Angeles Kings;2000;38;28;3;;252;228;26
+Minnesota Wild;2000;25;39;5;;168;210;25
+Montreal Canadiens;2000;28;40;6;;206;232;53
+Nashville Predators;2000;34;36;3;;186;200;0
+New Jersey Devils;2000;48;19;3;;295;195;26
+New York Islanders;2000;21;51;3;;185;268;27
+New York Rangers;2000;33;43;1;;250;290;6
+Ottawa Senators;2000;48;21;4;;274;205;28
+Philadelphia Flyers;2000;43;25;3;;240;207;62
+Phoenix Coyotes;2000;35;27;3;;214;212;11
+Pittsburgh Penguins;2000;42;28;3;;281;256;13
+San Jose Sharks;2000;40;27;3;;217;192;22
+St. Louis Blues;2000;43;22;5;;249;195;0
+Tampa Bay Lightning;2000;24;47;5;;201;280;31
+Toronto Maple Leafs;2000;37;29;5;;232;207;4
+Vancouver Canucks;2000;36;28;7;;239;238;11
+Washington Capitals;2000;41;27;4;;233;211;23
+Mighty Ducks of Anaheim;2001;29;42;3;;175;198;20
+Atlanta Thrashers;2001;19;47;5;;187;288;49
+Boston Bruins;2001;43;24;9;;236;201;2
+Buffalo Sabres;2001;35;35;1;;213;200;50
+Calgary Flames;2001;32;35;3;;201;220;85
+Carolina Hurricanes;2001;35;26;5;;217;217;4
+Columbus Blue Jackets;2001;22;47;5;;164;255;51
+Chicago Blackhawks;2001;41;27;1;;216;207;16
+Colorado Avalanche;2001;45;28;1;;212;169;13
+Dallas Stars;2001;36;28;5;;215;213;33
+Detroit Red Wings;2001;51;17;4;;251;187;20
+Edmonton Oilers;2001;38;28;4;;205;182;21
+Florida Panthers;2001;22;44;6;;180;250;7
+Los Angeles Kings;2001;40;27;4;;214;190;25
+Minnesota Wild;2001;26;35;9;;195;238;35
+Montreal Canadiens;2001;36;31;3;;207;209;36
+Nashville Predators;2001;28;41;0;;196;230;5
+New Jersey Devils;2001;41;28;4;;205;187;39
+New York Islanders;2001;42;28;4;;239;220;35
+New York Rangers;2001;36;38;4;;227;258;6
+Ottawa Senators;2001;39;27;7;;243;208;7
+Philadelphia Flyers;2001;42;27;3;;234;192;77
+Phoenix Coyotes;2001;40;27;6;;228;210;27
+Pittsburgh Penguins;2001;28;41;5;;198;249;67
+San Jose Sharks;2001;44;27;3;;248;199;10
+St. Louis Blues;2001;43;27;4;;227;188;45
+Tampa Bay Lightning;2001;27;40;4;;178;219;15
+Toronto Maple Leafs;2001;43;25;4;;249;207;27
+Vancouver Canucks;2001;42;30;3;;254;211;19
+Washington Capitals;2001;36;33;2;;228;240;39
+Mighty Ducks of Anaheim;2002;40;27;6;;203;193;9
+Atlanta Thrashers;2002;31;39;5;;226;284;32
+Boston Bruins;2002;36;31;4;;245;237;12
+Buffalo Sabres;2002;27;37;8;;190;219;61
+Calgary Flames;2002;29;36;4;;186;228;18
+Carolina Hurricanes;2002;22;43;6;;171;240;45
+Columbus Blue Jackets;2002;29;42;3;;213;263;51
+Chicago Blackhawks;2002;30;33;6;;207;226;
+Colorado Avalanche;2002;42;19;8;;251;194;
+Dallas Stars;2002;46;17;4;;245;169;
+Detroit Red Wings;2002;48;20;4;;269;203;
+Edmonton Oilers;2002;36;26;9;;231;230;
+Florida Panthers;2002;24;36;9;;176;237;
+Los Angeles Kings;2002;33;37;6;;203;221;
+Minnesota Wild;2002;42;29;1;;198;178;
+Montreal Canadiens;2002;30;35;9;;206;234;
+Nashville Predators;2002;27;35;7;;183;206;
+New Jersey Devils;2002;46;20;6;;216;166;
+New York Islanders;2002;35;34;2;;224;231;
+New York Rangers;2002;32;36;4;;210;231;
+Ottawa Senators;2002;52;21;1;;263;182;
+Philadelphia Flyers;2002;45;20;4;;211;166;
+Phoenix Coyotes;2002;31;35;5;;204;230;
+Pittsburgh Penguins;2002;27;44;5;;189;255;
+San Jose Sharks;2002;28;37;8;;214;239;
+St. Louis Blues;2002;41;24;6;;253;222;
+Tampa Bay Lightning;2002;36;25;5;;219;210;
+Toronto Maple Leafs;2002;44;28;3;;236;208;
+Vancouver Canucks;2002;45;23;1;;264;208;
+Washington Capitals;2002;39;29;6;;224;220;
+Mighty Ducks of Anaheim;2003;29;35;8;;184;213;
+Atlanta Thrashers;2003;33;37;4;;214;243;
+Boston Bruins;2003;41;19;7;;209;188;
+Buffalo Sabres;2003;37;34;4;;220;221;
+Calgary Flames;2003;42;30;3;;200;176;
+Carolina Hurricanes;2003;28;34;6;;172;209;
+Columbus Blue Jackets;2003;25;45;4;;177;238;
+Chicago Blackhawks;2003;20;43;8;;188;259;
+Colorado Avalanche;2003;40;22;7;;236;198;
+Dallas Stars;2003;41;26;2;;194;175;
+Detroit Red Wings;2003;48;21;2;;255;189;
+Edmonton Oilers;2003;36;29;5;;221;208;
+Florida Panthers;2003;28;35;4;;188;221;
+Los Angeles Kings;2003;28;29;9;;205;217;
+Minnesota Wild;2003;30;29;3;;188;183;
+Montreal Canadiens;2003;41;30;4;;208;192;
+Nashville Predators;2003;38;29;4;;216;217;
+New Jersey Devils;2003;43;25;2;;213;164;
+New York Islanders;2003;38;29;4;;237;210;
+New York Rangers;2003;27;40;8;;206;250;
+Ottawa Senators;2003;43;23;6;;262;189;
+Philadelphia Flyers;2003;40;21;6;;229;186;
+Phoenix Coyotes;2003;22;36;6;;188;245;
+Pittsburgh Penguins;2003;23;47;4;;190;303;
+San Jose Sharks;2003;43;21;6;;219;183;
+St. Louis Blues;2003;39;30;2;;191;198;
+Tampa Bay Lightning;2003;46;22;6;;245;192;
+Toronto Maple Leafs;2003;45;24;3;;242;204;
+Vancouver Canucks;2003;43;24;5;;235;194;
+Washington Capitals;2003;23;46;3;;186;253;
+Mighty Ducks of Anaheim;2005;43;27;12;;254;229;
+Atlanta Thrashers;2005;41;33;8;;281;275;
+Boston Bruins;2005;29;37;16;;230;266;
+Buffalo Sabres;2005;52;24;6;;281;239;
+Calgary Flames;2005;46;25;11;;218;200;
+Carolina Hurricanes;2005;52;22;8;;294;260;
+Columbus Blue Jackets;2005;35;43;4;;223;279;
+Chicago Blackhawks;2005;26;43;13;;211;285;
+Colorado Avalanche;2005;43;30;9;;283;257;
+Dallas Stars;2005;53;23;6;;265;218;
+Detroit Red Wings;2005;58;16;8;;305;209;
+Edmonton Oilers;2005;41;28;13;;256;251;
+Florida Panthers;2005;37;34;11;;240;257;
+Los Angeles Kings;2005;42;35;5;;249;270;
+Minnesota Wild;2005;38;36;8;;231;215;
+Montreal Canadiens;2005;42;31;9;;243;247;
+Nashville Predators;2005;49;25;8;;259;227;
+New Jersey Devils;2005;46;27;9;;242;229;
+New York Islanders;2005;36;40;6;;230;278;
+New York Rangers;2005;44;26;12;;257;215;
+Ottawa Senators;2005;52;21;9;;314;211;
+Philadelphia Flyers;2005;45;26;11;;267;259;
+Phoenix Coyotes;2005;38;39;5;;246;271;
+Pittsburgh Penguins;2005;22;46;14;;244;316;
+San Jose Sharks;2005;44;27;11;;266;242;
+St. Louis Blues;2005;21;46;15;;197;292;
+Tampa Bay Lightning;2005;43;33;6;;252;260;
+Toronto Maple Leafs;2005;41;33;8;;257;270;
+Vancouver Canucks;2005;42;32;8;;256;255;
+Washington Capitals;2005;29;41;12;;237;306;
+Anaheim Ducks;2006;48;20;14;;258;208;
+Atlanta Thrashers;2006;43;28;11;;246;245;
+Boston Bruins;2006;35;41;6;;219;289;
+Buffalo Sabres;2006;53;22;7;;308;242;
+Calgary Flames;2006;43;29;10;;258;226;
+Carolina Hurricanes;2006;40;34;8;;241;253;
+Columbus Blue Jackets;2006;33;42;7;;201;249;
+Chicago Blackhawks;2006;31;42;9;;201;258;
+Colorado Avalanche;2006;44;31;7;;272;251;
+Dallas Stars;2006;50;25;7;;226;197;
+Detroit Red Wings;2006;50;19;13;;254;199;
+Edmonton Oilers;2006;32;43;7;;195;248;
+Florida Panthers;2006;35;31;16;;247;257;
+Los Angeles Kings;2006;27;41;14;;227;283;
+Minnesota Wild;2006;48;26;8;;235;191;
+Montreal Canadiens;2006;42;34;6;;245;256;
+Nashville Predators;2006;51;23;8;;272;212;
+New Jersey Devils;2006;49;24;9;;216;201;
+New York Islanders;2006;40;30;12;;248;240;
+New York Rangers;2006;42;30;10;;242;216;
+Ottawa Senators;2006;48;25;9;;288;222;
+Philadelphia Flyers;2006;22;48;12;;214;303;
+Phoenix Coyotes;2006;31;46;5;;216;284;
+Pittsburgh Penguins;2006;47;24;11;;277;246;
+San Jose Sharks;2006;51;26;5;;258;199;
+St. Louis Blues;2006;34;35;13;;214;254;
+Tampa Bay Lightning;2006;44;33;5;;253;261;
+Toronto Maple Leafs;2006;40;31;11;;258;269;
+Vancouver Canucks;2006;49;26;7;;222;201;
+Washington Capitals;2006;28;40;14;;235;286;
+Anaheim Ducks;2007;47;27;8;;205;191;
+Atlanta Thrashers;2007;34;40;8;;216;272;
+Boston Bruins;2007;41;29;12;;212;222;
+Buffalo Sabres;2007;39;31;12;;255;242;
+Calgary Flames;2007;42;30;10;;229;227;
+Carolina Hurricanes;2007;43;33;6;;252;249;
+Columbus Blue Jackets;2007;34;36;12;;193;218;
+Chicago Blackhawks;2007;40;34;8;;239;235;
+Colorado Avalanche;2007;44;31;7;;231;219;
+Dallas Stars;2007;45;30;7;;242;207;
+Detroit Red Wings;2007;54;21;7;;257;184;
+Edmonton Oilers;2007;41;35;6;;235;251;
+Florida Panthers;2007;38;35;9;;216;226;
+Los Angeles Kings;2007;32;43;7;;231;266;
+Minnesota Wild;2007;44;28;10;;223;218;
+Montreal Canadiens;2007;47;25;10;;262;222;
+Nashville Predators;2007;41;32;9;;230;229;
+New Jersey Devils;2007;46;29;7;;206;197;
+New York Islanders;2007;35;38;9;;194;243;
+New York Rangers;2007;42;27;13;;213;199;
+Ottawa Senators;2007;43;31;8;;261;247;
+Philadelphia Flyers;2007;42;29;11;;248;233;
+Phoenix Coyotes;2007;38;37;7;;214;231;
+Pittsburgh Penguins;2007;47;27;8;;247;216;
+San Jose Sharks;2007;49;23;10;;222;193;
+St. Louis Blues;2007;33;36;13;;205;237;
+Tampa Bay Lightning;2007;31;42;9;;223;267;
+Toronto Maple Leafs;2007;36;35;11;;231;260;
+Vancouver Canucks;2007;39;33;10;;213;215;
+Washington Capitals;2007;43;31;8;;242;231;
+Anaheim Ducks;2008;42;33;7;;245;238;
+Atlanta Thrashers;2008;35;41;6;;257;280;
+Boston Bruins;2008;53;19;10;;274;196;
+Buffalo Sabres;2008;41;32;9;;250;234;
+Calgary Flames;2008;46;30;6;;254;248;
+Carolina Hurricanes;2008;45;30;7;;239;226;
+Columbus Blue Jackets;2008;41;31;10;;226;230;
+Chicago Blackhawks;2008;46;24;12;;264;216;
+Colorado Avalanche;2008;32;45;5;;199;257;
+Dallas Stars;2008;36;35;11;;230;257;
+Detroit Red Wings;2008;51;21;10;;295;244;
+Edmonton Oilers;2008;38;35;9;;234;248;
+Florida Panthers;2008;41;30;11;;234;231;
+Los Angeles Kings;2008;34;37;11;;207;234;
+Minnesota Wild;2008;40;33;9;;219;200;
+Montreal Canadiens;2008;41;30;11;;249;247;
+Nashville Predators;2008;40;34;8;;213;233;
+New Jersey Devils;2008;51;27;4;;244;209;
+New York Islanders;2008;26;47;9;;201;279;
+New York Rangers;2008;43;30;9;;210;218;
+Ottawa Senators;2008;36;35;11;;217;237;
+Philadelphia Flyers;2008;44;27;11;;264;238;
+Phoenix Coyotes;2008;36;39;7;;208;252;
+Pittsburgh Penguins;2008;45;28;9;;264;239;
+San Jose Sharks;2008;53;18;11;;257;204;
+St. Louis Blues;2008;41;31;10;;233;233;
+Tampa Bay Lightning;2008;24;40;18;;210;279;
+Toronto Maple Leafs;2008;34;35;13;;250;293;
+Vancouver Canucks;2008;45;27;10;;246;220;
+Washington Capitals;2008;50;24;8;;272;245;
+Anaheim Ducks;2009;39;32;11;;238;251;
+Atlanta Thrashers;2009;35;34;13;;234;256;
+Boston Bruins;2009;39;30;13;;206;200;
+Buffalo Sabres;2009;45;27;10;;235;207;
+Calgary Flames;2009;40;32;10;;204;210;
+Carolina Hurricanes;2009;35;37;10;;230;256;
+Columbus Blue Jackets;2009;32;35;15;;216;259;
+Chicago Blackhawks;2009;52;22;8;;271;209;
+Colorado Avalanche;2009;43;30;9;;244;233;
+Dallas Stars;2009;37;31;14;;237;254;
+Detroit Red Wings;2009;44;24;14;;229;216;
+Edmonton Oilers;2009;27;47;8;;214;284;
+Florida Panthers;2009;32;37;13;;208;244;
+Los Angeles Kings;2009;46;27;9;;241;219;
+Minnesota Wild;2009;38;36;8;;219;246;
+Montreal Canadiens;2009;39;33;10;;217;223;
+Nashville Predators;2009;47;29;6;;225;225;
+New Jersey Devils;2009;48;27;7;;222;191;
+New York Islanders;2009;34;37;11;;222;264;
+New York Rangers;2009;38;33;11;;222;218;
+Ottawa Senators;2009;44;32;6;;225;238;
+Philadelphia Flyers;2009;41;35;6;;236;225;
+Phoenix Coyotes;2009;50;25;7;;225;202;
+Pittsburgh Penguins;2009;47;28;7;;257;237;
+San Jose Sharks;2009;51;20;11;;264;215;
+St. Louis Blues;2009;40;32;10;;225;223;
+Tampa Bay Lightning;2009;34;36;12;;217;260;
+Toronto Maple Leafs;2009;30;38;14;;214;267;
+Vancouver Canucks;2009;49;28;5;;272;222;
+Washington Capitals;2009;54;15;13;;318;233;
+Anaheim Ducks;2010;47;30;5;;239;235;
+Atlanta Thrashers;2010;34;36;12;;223;269;
+Boston Bruins;2010;46;25;11;;246;195;
+Buffalo Sabres;2010;43;29;10;;245;229;
+Calgary Flames;2010;41;29;12;;250;237;
+Carolina Hurricanes;2010;40;31;11;;236;239;
+Columbus Blue Jackets;2010;34;35;13;;215;258;
+Chicago Blackhawks;2010;44;29;9;;258;225;
+Colorado Avalanche;2010;30;44;8;;227;288;
+Dallas Stars;2010;42;29;11;;227;233;
+Detroit Red Wings;2010;47;25;10;;261;241;
+Edmonton Oilers;2010;25;45;12;;193;269;
+Florida Panthers;2010;30;40;12;;195;229;
+Los Angeles Kings;2010;46;30;6;;219;198;
+Minnesota Wild;2010;39;35;8;;206;233;
+Montreal Canadiens;2010;44;30;8;;216;209;
+Nashville Predators;2010;44;27;11;;219;194;
+New Jersey Devils;2010;38;39;5;;174;209;
+New York Islanders;2010;30;39;13;;229;264;
+New York Rangers;2010;44;33;5;;233;198;
+Ottawa Senators;2010;32;40;10;;192;250;
+Philadelphia Flyers;2010;47;23;12;;259;223;
+Phoenix Coyotes;2010;43;26;13;;231;226;
+Pittsburgh Penguins;2010;49;25;8;;238;199;
+San Jose Sharks;2010;48;25;9;;248;213;
+St. Louis Blues;2010;38;33;11;;240;234;
+Tampa Bay Lightning;2010;46;25;11;;247;240;
+Toronto Maple Leafs;2010;37;34;11;;218;251;
+Vancouver Canucks;2010;54;19;9;;262;185;
+Washington Capitals;2010;48;23;11;;224;197;
+Anaheim Ducks;2011;34;36;12;;204;231;
+Boston Bruins;2011;49;29;4;;269;202;
+Buffalo Sabres;2011;39;32;11;;218;230;
+Calgary Flames;2011;37;29;16;;202;226;
+Carolina Hurricanes;2011;33;33;16;;213;243;
+Columbus Blue Jackets;2011;29;46;7;;202;262;
+Chicago Blackhawks;2011;45;26;11;;248;238;
+Colorado Avalanche;2011;41;35;6;;208;220;
+Dallas Stars;2011;42;35;5;;211;222;
+Detroit Red Wings;2011;48;28;6;;248;203;
+Edmonton Oilers;2011;32;40;10;;212;239;
+Florida Panthers;2011;38;26;18;;203;227;
+Los Angeles Kings;2011;40;27;15;;194;179;
+Minnesota Wild;2011;35;36;11;;177;226;
+Montreal Canadiens;2011;31;35;16;;212;226;
+Nashville Predators;2011;48;26;8;;237;210;
+New Jersey Devils;2011;48;28;6;;228;209;
+New York Islanders;2011;34;37;11;;203;255;
+New York Rangers;2011;51;24;7;;226;187;
+Ottawa Senators;2011;41;31;10;;249;240;
+Philadelphia Flyers;2011;47;26;9;;264;232;
+Phoenix Coyotes;2011;42;27;13;;216;204;
+Pittsburgh Penguins;2011;51;25;6;;282;221;
+San Jose Sharks;2011;43;29;10;;228;210;
+St. Louis Blues;2011;49;22;11;;210;165;
+Tampa Bay Lightning;2011;38;36;8;;235;281;
+Toronto Maple Leafs;2011;35;37;10;;231;264;
+Vancouver Canucks;2011;51;22;9;;249;198;
+Washington Capitals;2011;42;32;8;;222;230;
+Winnipeg Jets;2011;37;35;10;;225;246;
